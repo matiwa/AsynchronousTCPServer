@@ -1,0 +1,9 @@
+C:\Users\matiwa\source\repos\AsynchronousTCPServer\AsynchronousTCPServer\bin\Debug\AsynchronousTCPServer.exe
+C:\Users\matiwa\source\repos\AsynchronousTCPServer\AsynchronousTCPServer\bin\Debug\AsynchronousTCPServer.pdb
+C:\Users\matiwa\source\repos\AsynchronousTCPServer\AsynchronousTCPServer\obj\Debug\AsynchronousTCPServer.csprojAssemblyReference.cache
+C:\Users\matiwa\source\repos\AsynchronousTCPServer\AsynchronousTCPServer\obj\Debug\AsynchronousTCPServer.Form1.resources
+C:\Users\matiwa\source\repos\AsynchronousTCPServer\AsynchronousTCPServer\obj\Debug\AsynchronousTCPServer.Properties.Resources.resources
+C:\Users\matiwa\source\repos\AsynchronousTCPServer\AsynchronousTCPServer\obj\Debug\AsynchronousTCPServer.csproj.GenerateResource.cache
+C:\Users\matiwa\source\repos\AsynchronousTCPServer\AsynchronousTCPServer\obj\Debug\AsynchronousTCPServer.csproj.CoreCompileInputs.cache
+C:\Users\matiwa\source\repos\AsynchronousTCPServer\AsynchronousTCPServer\obj\Debug\AsynchronousTCPServer.exe
+C:\Users\matiwa\source\repos\AsynchronousTCPServer\AsynchronousTCPServer\obj\Debug\AsynchronousTCPServer.pdb
